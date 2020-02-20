@@ -4,3 +4,4 @@ For `getResults.sh` create a directory named `outputs`
      If you want to run only one query give the query number both as start and end.  
 For diff checker save one directory as `outputs` and other as `outputs_other`
 
+Run as `sh script.sh`
