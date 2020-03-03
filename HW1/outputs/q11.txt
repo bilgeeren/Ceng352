@@ -1,0 +1,16 @@
+      airline_name      | year | total_num_flights | cancelled_flights 
+------------------------+------+-------------------+-------------------
+ American Airlines Inc. | 2016 |             75580 |              2720
+ American Airlines Inc. | 2017 |             73132 |               980
+ American Airlines Inc. | 2018 |             73598 |              1478
+ American Airlines Inc. | 2019 |             77017 |              1511
+ Delta Air Lines Inc.   | 2016 |             69711 |               974
+ Delta Air Lines Inc.   | 2017 |             69813 |               782
+ Delta Air Lines Inc.   | 2018 |             71254 |              1539
+ Delta Air Lines Inc.   | 2019 |             73836 |               328
+ Southwest Airlines Co. | 2016 |            104154 |              2640
+ Southwest Airlines Co. | 2017 |            107785 |              2313
+ Southwest Airlines Co. | 2018 |            109676 |              2467
+ Southwest Airlines Co. | 2019 |            111312 |              3949
+(12 rows)
+

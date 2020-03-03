@@ -1,0 +1,22 @@
+      airline_name       | monday_flights | sunday_flights 
+-------------------------+----------------+----------------
+ Alaska Airlines Inc.    |           9460 |           9085
+ Allegiant Air           |           2666 |           2350
+ American Airlines Inc.  |          44059 |          41989
+ Delta Air Lines Inc.    |          43965 |          38864
+ Endeavor Air Inc.       |           5858 |           4188
+ Envoy Air               |           6725 |           6059
+ ExpressJet Airlines LLC |          16559 |          15300
+ Frontier Airlines Inc.  |           4993 |           4931
+ Hawaiian Airlines Inc.  |           3714 |           3798
+ JetBlue Airways         |          14360 |          13168
+ Mesa Airlines Inc.      |           4993 |           4230
+ PSA Airlines Inc.       |           6281 |           5363
+ Republic Airline        |           7459 |           5966
+ SkyWest Airlines Inc.   |          32949 |          30121
+ Southwest Airlines Co.  |          64306 |          58158
+ Spirit Air Lines        |           7644 |           7507
+ United Air Lines Inc.   |          26432 |          24159
+ Virgin America          |           2651 |           2507
+(18 rows)
+

@@ -1,0 +1,257 @@
+ flight_date | plane_tail_number | flight1_arrival_time | flight2_departure_time | origin_city_name |    stop_city_name     | dest_city_name | total_time | total_distance 
+-------------+-------------------+----------------------+------------------------+------------------+-----------------------+----------------+------------+----------------
+ 31/1/2017   | N436UA            | 19:05                | 20:53                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        308 |           2588
+ 11/1/2017   | N860DN            | 16:52                | 18:00                  | Seattle, WA      | Minneapolis, MN       | Boston, MA     |        312 |           2523
+ 31/1/2018   | N3732J            | 22:03                | 23:19                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        313 |           2794
+ 3/1/2019    | N14231            | 12:28                | 14:16                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        315 |           2588
+ 14/1/2016   | N38454            | 19:57                | 21:08                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        316 |           2588
+ 14/1/2017   | N3KGAA            | 17:04                | 18:29                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        317 |           2588
+ 14/1/2018   | N449UA            | 19:44                | 21:07                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        317 |           2588
+ 5/1/2019    | N908AA            | 06:01                | 07:25                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        318 |           2588
+ 9/1/2017    | N355NW            | 11:41                | 13:08                  | Seattle, WA      | Minneapolis, MN       | Boston, MA     |        320 |           2523
+ 9/1/2017    | N858DZ            | 16:45                | 18:05                  | Seattle, WA      | Minneapolis, MN       | Boston, MA     |        322 |           2523
+ 29/1/2016   | N38417            | 19:53                | 21:12                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        322 |           2588
+ 12/1/2017   | N38443            | 12:16                | 13:44                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        322 |           2588
+ 1/1/2019    | N373DA            | 16:09                | 17:15                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        322 |           2794
+ 29/1/2018   | N24202            | 11:54                | 13:38                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        323 |           2588
+ 12/1/2017   | N3GCAA            | 17:17                | 18:28                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        323 |           2588
+ 17/1/2019   | N69840            | 20:33                | 21:28                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        323 |           2588
+ 28/1/2016   | N38417            | 19:56                | 21:04                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        324 |           2588
+ 18/1/2018   | N73283            | 11:53                | 13:43                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        324 |           2588
+ 13/1/2017   | N3BFAA            | 17:13                | 18:35                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        325 |           2588
+ 31/1/2016   | N423UA            | 16:05                | 17:34                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        325 |           2588
+ 15/1/2017   | N61882            | 19:42                | 20:56                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        325 |           2588
+ 3/1/2017    | N69813            | 22:19                | 23:49                  | Seattle, WA      | Denver, CO            | Boston, MA     |        325 |           2778
+ 29/1/2017   | N811DZ            | 17:13                | 22:03                  | Seattle, WA      | Minneapolis, MN       | Boston, MA     |        326 |           2523
+ 8/1/2017    | N15710            | 13:34                | 17:29                  | Seattle, WA      | Newark, NJ            | Boston, MA     |        326 |           2602
+ 30/1/2018   | N393DA            | 21:33                | 23:15                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        327 |           2794
+ 11/1/2016   | N37468            | 20:45                | 22:22                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        328 |           2588
+ 29/1/2017   | N3FAAA            | 17:00                | 18:33                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        329 |           2588
+ 6/1/2019    | N3736C            | 10:05                | 17:43                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        330 |           2794
+ 7/1/2019    | N387DA            | 09:38                | 17:33                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        330 |           2794
+ 31/1/2017   | N690DL            | 20:45                | 22:43                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        330 |           2794
+ 10/1/2017   | N3GBAA            | 19:43                | 20:30                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        331 |           2588
+ 15/1/2017   | N3NEAA            | 17:08                | 18:24                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        331 |           2588
+ 5/1/2016    | N69824            | 20:12                | 21:20                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        331 |           2588
+ 25/1/2016   | N37471            | 19:57                | 21:05                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        332 |           2588
+ 10/1/2016   | N430UA            | 16:09                | 17:28                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        332 |           2588
+ 16/1/2017   | N856DN            | 16:52                | 17:57                  | Seattle, WA      | Minneapolis, MN       | Boston, MA     |        333 |           2523
+ 12/1/2016   | N68802            | 19:51                | 21:05                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        334 |           2588
+ 25/1/2019   | N37413            | 20:40                | 22:57                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        335 |           2588
+ 14/1/2017   | N301NB            | 14:39                | 16:00                  | Seattle, WA      | Detroit, MI           | Boston, MA     |        336 |           2559
+ 12/1/2019   | N305NX            | 11:33                | 12:54                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        336 |           2588
+ 19/1/2016   | N65832            | 20:05                | 21:08                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        336 |           2588
+ 17/1/2016   | N373NW            | 15:45                | 17:05                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        336 |           2794
+ 19/1/2018   | N3764D            | 22:08                | 23:20                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        336 |           2794
+ 14/1/2017   | N385DN            | 16:08                | 17:13                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        336 |           2794
+ 23/1/2019   | N898DN            | 08:30                | 10:02                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        336 |           2794
+ 8/1/2016    | N37408            | 20:04                | 21:10                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        337 |           2588
+ 9/1/2017    | N3JWAA            | 17:29                | 18:48                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        337 |           2588
+ 13/1/2017   | N8604K            | 09:32                | 10:30                  | Seattle, WA      | Denver, CO            | Boston, MA     |        337 |           2778
+ 15/1/2016   | N38454            | 20:08                | 21:13                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        338 |           2588
+ 7/1/2018    | N3761R            | 21:42                | 23:24                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        338 |           2794
+ 7/1/2019    | N922US            | 20:05                | 21:23                  | Seattle, WA      | Philadelphia, PA      | Boston, MA     |        339 |           2658
+ 3/1/2018    | N767SW            | 14:37                | 16:13                  | Seattle, WA      | St. Louis, MO         | Boston, MA     |        339 |           2756
+ 3/1/2016    | N37277            | 08:53                | 10:07                  | Seattle, WA      | Denver, CO            | Boston, MA     |        339 |           2778
+ 22/1/2017   | N826DN            | 16:51                | 17:56                  | Seattle, WA      | Minneapolis, MN       | Boston, MA     |        340 |           2523
+ 18/1/2019   | N846DN            | 08:42                | 10:01                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        340 |           2794
+ 23/1/2018   | N36469            | 16:23                | 17:53                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        341 |           2588
+ 1/1/2018    | N208WN            | 14:40                | 15:50                  | Seattle, WA      | St. Louis, MO         | Boston, MA     |        341 |           2756
+ 25/1/2017   | N3753             | 20:46                | 22:44                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        341 |           2794
+ 2/1/2016    | N562WN            | 21:15                | 22:03                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        342 |           2594
+ 19/1/2016   | N414UA            | 08:22                | 09:55                  | Seattle, WA      | Denver, CO            | Boston, MA     |        342 |           2778
+ 22/1/2017   | N3GJAA            | 17:14                | 18:27                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        343 |           2588
+ 5/1/2018    | N438UA            | 16:23                | 17:50                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        343 |           2588
+ 17/1/2019   | N77296            | 12:50                | 14:07                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        343 |           2588
+ 19/1/2019   | N823DN            | 08:59                | 09:58                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        343 |           2794
+ 8/1/2019    | N823DN            | 08:47                | 10:05                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        343 |           2794
+ 30/1/2017   | N3LLAA            | 13:57                | 15:16                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        344 |           2588
+ 25/1/2019   | N470UA            | 15:00                | 15:43                  | Seattle, WA      | Newark, NJ            | Boston, MA     |        345 |           2602
+ 8/1/2018    | N62894            | 14:56                | 17:40                  | Seattle, WA      | Washington, DC        | Boston, MA     |        345 |           2719
+ 9/1/2019    | N67812            | 08:51                | 10:10                  | Seattle, WA      | Denver, CO            | Boston, MA     |        345 |           2778
+ 7/1/2017    | N372DA            | 16:26                | 17:23                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        345 |           2794
+ 29/1/2016   | N3769L            | 11:03                | 17:11                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        345 |           2794
+ 9/1/2019    | N803DN            | 08:58                | 09:57                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        345 |           2794
+ 31/1/2019   | N851DN            | 08:53                | 09:56                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        345 |           2794
+ 25/1/2017   | N3CBAA            | 17:34                | 18:30                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        346 |           2588
+ 21/1/2019   | N62884            | 20:00                | 23:16                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        346 |           2588
+ 28/1/2019   | N921US            | 20:10                | 21:25                  | Seattle, WA      | Philadelphia, PA      | Boston, MA     |        346 |           2658
+ 22/1/2018   | N3757D            | 21:17                | 23:21                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        346 |           2794
+ 29/1/2019   | N865DN            | 08:47                | 10:00                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        346 |           2794
+ 24/1/2017   | N3HDAA            | 17:22                | 18:31                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        347 |           2588
+ 1/1/2018    | N66814            | 14:03                | 14:59                  | Seattle, WA      | Newark, NJ            | Boston, MA     |        347 |           2602
+ 17/1/2018   | N37462            | 16:25                | 18:05                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        348 |           2588
+ 5/1/2016    | N3MKAA            | 06:21                | 08:17                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        348 |           2588
+ 3/1/2016    | N8302F            | 08:40                | 09:23                  | Seattle, WA      | Denver, CO            | Boston, MA     |        348 |           2778
+ 16/1/2019   | N861DN            | 08:51                | 09:55                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        348 |           2794
+ 25/1/2018   | N69806            | 15:08                | 17:01                  | Seattle, WA      | Washington, DC        | Boston, MA     |        349 |           2719
+ 5/1/2018    | N703SW            | 14:40                | 16:55                  | Seattle, WA      | St. Louis, MO         | Boston, MA     |        349 |           2756
+ 25/1/2018   | N3731T            | 21:36                | 23:19                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        349 |           2794
+ 24/1/2019   | N910DU            | 08:36                | 10:22                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        349 |           2794
+ 11/1/2017   | N37470            | 15:40                | 22:24                  | Seattle, WA      | Washington, DC        | Boston, MA     |        350 |           2719
+ 8/1/2016    | N69847            | 20:49                | 22:32                  | Seattle, WA      | Washington, DC        | Boston, MA     |        350 |           2719
+ 21/1/2017   | N377DA            | 17:12                | 18:03                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        350 |           2794
+ 27/1/2017   | N3HGAA            | 17:32                | 18:28                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        351 |           2588
+ 30/1/2019   | N907DN            | 08:46                | 09:59                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        351 |           2794
+ 7/1/2018    | N69806            | 14:06                | 15:27                  | Seattle, WA      | Newark, NJ            | Boston, MA     |        352 |           2602
+ 31/1/2019   | N538UW            | 20:04                | 21:25                  | Seattle, WA      | Philadelphia, PA      | Boston, MA     |        352 |           2658
+ 2/1/2019    | N580UW            | 20:17                | 21:28                  | Seattle, WA      | Philadelphia, PA      | Boston, MA     |        352 |           2658
+ 21/1/2016   | N69806            | 20:49                | 22:20                  | Seattle, WA      | Washington, DC        | Boston, MA     |        352 |           2719
+ 10/1/2019   | N855DN            | 08:46                | 09:58                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        352 |           2794
+ 11/1/2019   | N863DN            | 08:55                | 10:18                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        352 |           2794
+ 18/1/2019   | N584UW            | 20:20                | 21:30                  | Seattle, WA      | Philadelphia, PA      | Boston, MA     |        353 |           2658
+ 26/1/2019   | N864DN            | 08:45                | 09:55                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        353 |           2794
+ 12/1/2018   | N62892            | 15:09                | 18:18                  | Seattle, WA      | Washington, DC        | Boston, MA     |        354 |           2719
+ 25/1/2017   | N3753             | 12:54                | 22:44                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        354 |           2794
+ 25/1/2017   | N3MHAA            | 14:19                | 15:07                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        355 |           2588
+ 4/1/2019    | N173US            | 20:10                | 21:22                  | Seattle, WA      | Philadelphia, PA      | Boston, MA     |        355 |           2658
+ 6/1/2018    | N3767             | 16:11                | 17:20                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        355 |           2794
+ 5/1/2018    | N3773D            | 21:45                | 23:24                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        355 |           2794
+ 3/1/2017    | N3ALAA            | 06:15                | 08:37                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        356 |           2588
+ 7/1/2018    | N69806            | 14:06                | 23:13                  | Seattle, WA      | Newark, NJ            | Boston, MA     |        356 |           2602
+ 23/1/2017   | N3764D            | 08:43                | 22:48                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        356 |           2794
+ 25/1/2019   | N807DN            | 08:48                | 09:52                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        356 |           2794
+ 3/1/2017    | N3ALAA            | 06:15                | 16:42                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        357 |           2588
+ 27/1/2019   | N8646B            | 20:28                | 21:32                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        358 |           2594
+ 2/1/2018    | N704X             | 19:52                | 21:02                  | Seattle, WA      | New York, NY          | Boston, MA     |        358 |           2609
+ 10/1/2019   | N560UW            | 20:13                | 21:22                  | Seattle, WA      | Philadelphia, PA      | Boston, MA     |        358 |           2658
+ 24/1/2018   | N3741S            | 21:40                | 23:20                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        358 |           2794
+ 3/1/2019    | N870DN            | 08:53                | 09:57                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        358 |           2794
+ 22/1/2018   | N33284            | 12:17                | 13:40                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        359 |           2588
+ 8/1/2016    | N8606C            | 12:22                | 13:39                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        359 |           2594
+ 13/1/2019   | N37422            | 09:00                | 10:10                  | Seattle, WA      | Denver, CO            | Boston, MA     |        359 |           2778
+ 18/1/2019   | N69885            | 09:14                | 10:15                  | Seattle, WA      | Denver, CO            | Boston, MA     |        359 |           2778
+ 28/1/2019   | N899DN            | 08:47                | 10:13                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        359 |           2794
+ 13/1/2019   | N408UA            | 19:58                | 20:49                  | Seattle, WA      | Newark, NJ            | Boston, MA     |        361 |           2602
+ 14/1/2019   | N539UW            | 20:24                | 21:26                  | Seattle, WA      | Philadelphia, PA      | Boston, MA     |        361 |           2658
+ 30/1/2019   | N69833            | 09:07                | 10:13                  | Seattle, WA      | Denver, CO            | Boston, MA     |        361 |           2778
+ 8/1/2016    | N69840            | 08:40                | 09:54                  | Seattle, WA      | Denver, CO            | Boston, MA     |        363 |           2778
+ 5/1/2017    | N3756             | 13:15                | 22:50                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        364 |           2794
+ 2/1/2019    | N3735D            | 12:45                | 23:54                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        365 |           2794
+ 17/1/2019   | N833DN            | 08:55                | 09:55                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        365 |           2794
+ 11/1/2019   | N189UW            | 20:17                | 21:22                  | Seattle, WA      | Philadelphia, PA      | Boston, MA     |        366 |           2658
+ 22/1/2018   | N68834            | 15:20                | 16:58                  | Seattle, WA      | Washington, DC        | Boston, MA     |        366 |           2719
+ 12/1/2019   | N809DN            | 08:49                | 09:57                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        366 |           2794
+ 24/1/2019   | N463UA            | 15:15                | 17:45                  | Seattle, WA      | Newark, NJ            | Boston, MA     |        367 |           2602
+ 26/1/2019   | N584UW            | 13:24                | 20:28                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        367 |           3007
+ 4/1/2016    | N61882            | 21:16                | 22:20                  | Seattle, WA      | Washington, DC        | Boston, MA     |        368 |           2719
+ 31/1/2019   | N539UW            | 13:31                | 14:37                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        368 |           3007
+ 9/1/2018    | N37700            | 21:36                | 23:23                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        369 |           2794
+ 23/1/2018   | N3733Z            | 21:56                | 23:19                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        370 |           2794
+ 1/1/2019    | N3763D            | 10:24                | 15:08                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        372 |           3248
+ 13/1/2019   | N8583Z            | 20:15                | 21:28                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        373 |           2594
+ 10/1/2016   | N310NW            | 16:45                | 19:54                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        373 |           2794
+ 18/1/2017   | N3ANAA            | 17:45                | 18:36                  | Seattle, WA      | Chicago, IL           | Boston, MA     |        374 |           2588
+ 15/1/2019   | N896DN            | 09:10                | 09:57                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        375 |           2794
+ 7/1/2019    | N560UW            | 05:39                | 11:16                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        375 |           3007
+ 5/1/2017    | N532NK            | 08:09                | 22:28                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        375 |           3248
+ 9/1/2019    | N521UW            | 19:30                | 20:53                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        376 |           3007
+ 23/1/2018   | N980UY            | 05:51                | 11:24                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        377 |           3007
+ 3/1/2016    | N573UW            | 08:23                | 22:24                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        378 |           3007
+ 16/1/2018   | N3752             | 21:47                | 23:21                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        380 |           2794
+ 3/1/2016    | N573UW            | 08:23                | 09:33                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        383 |           3007
+ 3/1/2019    | N196UW            | 19:36                | 20:33                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        385 |           3007
+ 13/1/2018   | N990AU            | 05:36                | 18:24                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        389 |           3222
+ 21/1/2017   | N551AA            | 21:22                | 22:47                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        390 |           3007
+ 25/1/2017   | N521NK            | 08:16                | 21:53                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        390 |           3248
+ 14/1/2019   | N864DN            | 09:00                | 10:04                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        392 |           2794
+ 13/1/2017   | N474UA            | 09:17                | 16:19                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        392 |           3383
+ 1/1/2016    | N187US            | 08:32                | 09:41                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        394 |           3007
+ 2/1/2016    | N154UW            | 08:36                | 09:33                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        397 |           3007
+ 31/1/2016   | N649AW            | 21:33                | 23:21                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        397 |           3407
+ 26/1/2017   | N3CKAA            | 14:49                | 16:13                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        398 |           3407
+ 4/1/2016    | N542UW            | 08:41                | 09:38                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        399 |           3007
+ 21/1/2017   | N3MAAA            | 14:44                | 16:19                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        399 |           3407
+ 30/1/2016   | N664AW            | 21:22                | 22:41                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        399 |           3407
+ 24/1/2016   | N668AW            | 21:23                | 23:49                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        399 |           3407
+ 20/1/2017   | N505NK            | 08:18                | 22:32                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        400 |           3248
+ 13/1/2017   | N507NK            | 08:31                | 22:06                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        400 |           3248
+ 14/1/2017   | N515NK            | 08:28                | 21:52                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        400 |           3248
+ 31/1/2018   | N971NN            | 22:10                | 23:01                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        400 |           3407
+ 31/1/2017   | N523NK            | 08:15                | 21:51                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        401 |           3248
+ 25/1/2017   | N3NKAA            | 14:57                | 16:12                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        401 |           3407
+ 23/1/2019   | N671DN            | 21:54                | 22:55                  | Seattle, WA      | Atlanta, GA           | Boston, MA     |        402 |           3128
+ 13/1/2016   | N3CVAA            | 10:40                | 20:06                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        402 |           3222
+ 28/1/2016   | N3JVAA            | 05:44                | 20:09                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        402 |           3222
+ 30/1/2016   | N3MPAA            | 12:14                | 13:27                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        402 |           3222
+ 22/1/2019   | N546UW            | 13:41                | 21:39                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        404 |           3007
+ 11/1/2016   | N3CXAA            | 12:36                | 15:02                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        405 |           3222
+ 26/1/2019   | N3757D            | 13:46                | 14:40                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        405 |           3248
+ 18/1/2016   | N3FBAA            | 19:27                | 20:19                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        406 |           3222
+ 7/1/2016    | N3JKAA            | 12:31                | 13:56                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        406 |           3222
+ 8/1/2017    | N525NK            | 08:17                | 22:15                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        406 |           3248
+ 11/1/2017   | N3FTAA            | 15:32                | 16:19                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        406 |           3407
+ 6/1/2019    | N183UW            | 13:50                | 15:04                  | Seattle, WA      | Charlotte, NC         | Boston, MA     |        407 |           3007
+ 9/1/2017    | N528NK            | 08:26                | 21:57                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        407 |           3248
+ 3/1/2016    | N3MNAA            | 16:01                | 17:06                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        409 |           3222
+ 27/1/2017   | N508NK            | 08:20                | 21:48                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        409 |           3248
+ 16/1/2017   | N3GGAA            | 14:52                | 16:12                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        410 |           3407
+ 10/1/2019   | N153AN            | 19:49                | 20:45                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        411 |           3222
+ 8/1/2018    | N917NN            | 11:27                | 12:19                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        411 |           3222
+ 17/1/2019   | N453AS            | 19:24                | 22:32                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        411 |           3383
+ 15/1/2017   | N505NK            | 08:33                | 21:55                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        412 |           3248
+ 5/1/2019    | N283VA            | 19:14                | 20:57                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        412 |           3383
+ 13/1/2018   | N64809            | 05:45                | 07:30                  | Seattle, WA      | Houston, TX           | Boston, MA     |        413 |           3471
+ 17/1/2017   | N503NK            | 08:24                | 21:57                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        416 |           3248
+ 10/1/2018   | N626VA            | 07:56                | 09:26                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        416 |           3383
+ 19/1/2017   | N3DXAA            | 14:51                | 16:17                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        417 |           3407
+ 20/1/2017   | N3ERAA            | 15:01                | 16:43                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        417 |           3407
+ 25/1/2016   | N36469            | 11:36                | 15:28                  | Seattle, WA      | Houston, TX           | Boston, MA     |        417 |           3471
+ 11/1/2016   | N37409            | 06:41                | 10:26                  | Seattle, WA      | Houston, TX           | Boston, MA     |        417 |           3471
+ 5/1/2016    | N3KMAA            | 05:53                | 07:08                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        418 |           3222
+ 22/1/2016   | N3JHAA            | 12:40                | 13:36                  | Seattle, WA      | Dallas/Fort Worth, TX | Boston, MA     |        419 |           3222
+ 19/1/2018   | N850NN            | 22:36                | 23:18                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        420 |           3407
+ 27/1/2017   | N3APAA            | 14:56                | 16:13                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        421 |           3407
+ 21/1/2018   | N937AN            | 21:36                | 23:01                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        421 |           3407
+ 6/1/2018    | N978AN            | 21:44                | 22:49                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        421 |           3407
+ 15/1/2016   | N38403            | 11:43                | 13:04                  | Seattle, WA      | Houston, TX           | Boston, MA     |        421 |           3471
+ 9/1/2016    | N676AW            | 21:45                | 22:49                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        422 |           3407
+ 31/1/2018   | N632JB            | 20:06                | 21:09                  | Seattle, WA      | Long Beach, CA        | Boston, MA     |        423 |           3567
+ 23/1/2017   | N631VA            | 20:01                | 21:30                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        424 |           3383
+ 20/1/2017   | N76514            | 13:53                | 14:42                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        425 |           3383
+ 11/1/2016   | N31412            | 11:55                | 13:01                  | Seattle, WA      | Houston, TX           | Boston, MA     |        426 |           3471
+ 9/1/2017    | N3LWAA            | 15:28                | 16:13                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        427 |           3407
+ 22/1/2018   | N830NN            | 21:48                | 22:56                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        427 |           3407
+ 2/1/2016    | N525VA            | 13:55                | 21:48                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        428 |           3565
+ 22/1/2017   | N3KGAA            | 14:56                | 16:17                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        429 |           3407
+ 28/1/2017   | N3MVAA            | 14:50                | 16:11                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        429 |           3407
+ 3/1/2017    | N75435            | 13:31                | 16:25                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        430 |           3383
+ 27/1/2016   | N477UA            | 11:39                | 12:59                  | Seattle, WA      | Houston, TX           | Boston, MA     |        430 |           3471
+ 6/1/2016    | N526VA            | 20:23                | 21:52                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        430 |           3565
+ 2/1/2016    | N525VA            | 20:43                | 21:48                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        431 |           3565
+ 14/1/2016   | N527VA            | 20:26                | 21:49                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        431 |           3565
+ 23/1/2017   | N580JB            | 17:40                | 22:03                  | Seattle, WA      | Long Beach, CA        | Boston, MA     |        432 |           3567
+ 19/1/2017   | N522NK            | 08:26                | 21:50                  | Seattle, WA      | Las Vegas, NV         | Boston, MA     |        433 |           3248
+ 23/1/2018   | N837VA            | 08:01                | 09:21                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        433 |           3383
+ 13/1/2016   | N522VA            | 20:22                | 22:00                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        433 |           3565
+ 1/1/2017    | N14242            | 11:15                | 16:56                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        434 |           3383
+ 8/1/2018    | N480UA            | 05:55                | 09:53                  | Seattle, WA      | Houston, TX           | Boston, MA     |        436 |           3471
+ 28/1/2018   | N933NN            | 22:07                | 23:22                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        438 |           3407
+ 5/1/2016    | N14242            | 07:49                | 23:10                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        439 |           3383
+ 2/1/2019    | N848VA            | 09:16                | 20:52                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        439 |           3383
+ 29/1/2016   | N526VA            | 20:25                | 21:41                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        439 |           3565
+ 26/1/2018   | N625VA            | 08:00                | 09:24                  | Seattle, WA      | San Francisco, CA     | Boston, MA     |        440 |           3383
+ 29/1/2017   | N3DRAA            | 15:20                | 16:11                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        441 |           3407
+ 18/1/2016   | N521VA            | 20:31                | 21:55                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        441 |           3565
+ 22/1/2018   | N3732J            | 12:49                | 21:46                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        445 |           3565
+ 27/1/2016   | N521VA            | 20:22                | 21:46                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        445 |           3565
+ 11/1/2016   | N836VA            | 20:28                | 21:45                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        445 |           3565
+ 23/1/2017   | N3DCAA            | 15:25                | 16:11                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        447 |           3407
+ 12/1/2018   | N912NN            | 22:04                | 23:01                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        447 |           3407
+ 20/1/2018   | N62892            | 06:27                | 07:30                  | Seattle, WA      | Houston, TX           | Boston, MA     |        447 |           3471
+ 21/1/2018   | N570JB            | 20:21                | 21:11                  | Seattle, WA      | Long Beach, CA        | Boston, MA     |        447 |           3567
+ 29/1/2018   | N901NN            | 22:20                | 23:06                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        448 |           3407
+ 4/1/2016    | N522VA            | 13:50                | 21:55                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        451 |           3565
+ 28/1/2016   | N523VA            | 20:13                | 21:54                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        454 |           3565
+ 1/1/2018    | N554JB            | 20:16                | 21:13                  | Seattle, WA      | Long Beach, CA        | Boston, MA     |        454 |           3567
+ 18/1/2019   | N396DA            | 16:06                | 21:42                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        455 |           3565
+ 4/1/2016    | N522VA            | 20:40                | 21:55                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        455 |           3565
+ 9/1/2019    | N3732J            | 19:50                | 21:42                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        456 |           3565
+ 22/1/2016   | N521VA            | 21:12                | 22:01                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        458 |           3565
+ 18/1/2017   | N3KVAA            | 15:23                | 16:26                  | Seattle, WA      | Phoenix, AZ           | Boston, MA     |        460 |           3407
+ 2/1/2018    | N508JB            | 20:32                | 21:21                  | Seattle, WA      | Long Beach, CA        | Boston, MA     |        463 |           3567
+ 16/1/2019   | N3773D            | 20:12                | 21:49                  | Seattle, WA      | Los Angeles, CA       | Boston, MA     |        467 |           3565
+ 30/1/2019   | N3736C            | 15:55                | 17:27                  | Seattle, WA      | Salt Lake City, UT    | Boston, MA     |        497 |           2794
+ 23/1/2016   | N408UA            | 12:09                | 14:02                  | Seattle, WA      | Chicago, IL           | Boston, MA     |            |           2588
+(253 rows)
+

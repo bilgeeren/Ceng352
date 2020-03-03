@@ -1,0 +1,6 @@
+      airline_name      | flight_count 
+------------------------+--------------
+ American Airlines Inc. |            1
+ United Air Lines Inc.  |            5
+(2 rows)
+

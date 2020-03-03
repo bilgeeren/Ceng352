@@ -1,0 +1,22 @@
+      airline_name       | airline_code |     avg_delay      
+-------------------------+--------------+--------------------
+ Alaska Airlines Inc.    | AS           | -2.245880026367831
+ Hawaiian Airlines Inc.  | HA           |  1.719770253929867
+ Virgin America          | VX           | 2.8321971683272156
+ Spirit Air Lines        | NK           |  5.600463398740135
+ United Air Lines Inc.   | UA           |  5.874387447736367
+ American Airlines Inc.  | AA           | 6.8952717692734335
+ Republic Airline        | YX           |  7.240844065947896
+ Southwest Airlines Co.  | WN           |    8.0234588514024
+ Envoy Air               | MQ           |  8.761656115706298
+ Mesa Airlines Inc.      | YV           |  8.808901034550068
+ Delta Air Lines Inc.    | DL           |  9.678232804991753
+ Allegiant Air           | G4           | 10.341030195381883
+ Endeavor Air Inc.       | 9E           | 12.304371354699056
+ ExpressJet Airlines LLC | EV           |  13.62747143825969
+ PSA Airlines Inc.       | OH           | 13.698552548772813
+ SkyWest Airlines Inc.   | OO           | 15.036845230241457
+ Frontier Airlines Inc.  | F9           |  15.97184578211997
+ JetBlue Airways         | B6           | 20.382350427350428
+(18 rows)
+

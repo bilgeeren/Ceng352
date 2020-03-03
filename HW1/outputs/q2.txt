@@ -1,0 +1,57 @@
+ airport_code |                            airport_desc                             | cancel_count 
+--------------+---------------------------------------------------------------------+--------------
+ FLL          | Fort Lauderdale, FL: Fort Lauderdale-Hollywood International        |          128
+ EWR          | Newark, NJ: Newark Liberty International                            |           12
+ ATL          | Atlanta, GA: Hartsfield-Jackson Atlanta International               |            9
+ DCA          | Washington, DC: Ronald Reagan Washington National                   |            9
+ LAX          | Los Angeles, CA: Los Angeles International                          |            9
+ BOS          | Boston, MA: Logan International                                     |            8
+ LGA          | New York, NY: LaGuardia                                             |            8
+ JFK          | New York, NY: John F. Kennedy International                         |            7
+ DFW          | Dallas/Fort Worth, TX: Dallas/Fort Worth International              |            6
+ DTW          | Detroit, MI: Detroit Metro Wayne County                             |            6
+ MCO          | Orlando, FL: Orlando International                                  |            6
+ PHL          | Philadelphia, PA: Philadelphia International                        |            6
+ SJU          | San Juan, PR: Luis Munoz Marin International                        |            6
+ BWI          | Baltimore, MD: Baltimore/Washington International Thurgood Marshall |            5
+ ORD          | Chicago, IL: Chicago O'Hare International                           |            5
+ ACY          | Atlantic City, NJ: Atlantic City International                      |            4
+ CLT          | Charlotte, NC: Charlotte Douglas International                      |            3
+ IAH          | Houston, TX: George Bush Intercontinental/Houston                   |            3
+ JAX          | Jacksonville, FL: Jacksonville International                        |            3
+ SFO          | San Francisco, CA: San Francisco International                      |            3
+ BQN          | Aguadilla, PR: Rafael Hernandez                                     |            2
+ CLE          | Cleveland, OH: Cleveland-Hopkins International                      |            2
+ HPN          | White Plains, NY: Westchester County                                |            2
+ IAG          | Niagara Falls, NY: Niagara Falls International                      |            2
+ LAS          | Las Vegas, NV: McCarran International                               |            2
+ LBE          | Latrobe, PA: Arnold Palmer Regional                                 |            2
+ MSY          | New Orleans, LA: Louis Armstrong New Orleans International          |            2
+ MYR          | Myrtle Beach, SC: Myrtle Beach International                        |            2
+ SAN          | San Diego, CA: San Diego International                              |            2
+ TPA          | Tampa, FL: Tampa International                                      |            2
+ ALB          | Albany, NY: Albany International                                    |            1
+ AUS          | Austin, TX: Austin - Bergstrom International                        |            1
+ BDL          | Hartford, CT: Bradley International                                 |            1
+ BNA          | Nashville, TN: Nashville International                              |            1
+ BUF          | Buffalo, NY: Buffalo Niagara International                          |            1
+ CAK          | Akron, OH: Akron-Canton Regional                                    |            1
+ CHS          | Charleston, SC: Charleston AFB/International                        |            1
+ DAL          | Dallas, TX: Dallas Love Field                                       |            1
+ DEN          | Denver, CO: Denver International                                    |            1
+ IAD          | Washington, DC: Washington Dulles International                     |            1
+ MLU          | Monroe, LA: Monroe Regional                                         |            1
+ MSP          | Minneapolis, MN: Minneapolis-St Paul International                  |            1
+ OAK          | Oakland, CA: Metropolitan Oakland International                     |            1
+ ORH          | Worcester, MA: Worcester Regional                                   |            1
+ PBG          | Plattsburgh, NY: Plattsburgh International                          |            1
+ PIT          | Pittsburgh, PA: Pittsburgh International                            |            1
+ PVD          | Providence, RI: Theodore Francis Green State                        |            1
+ RDU          | Raleigh/Durham, NC: Raleigh-Durham International                    |            1
+ RIC          | Richmond, VA: Richmond International                                |            1
+ RSW          | Fort Myers, FL: Southwest Florida International                     |            1
+ STT          | Charlotte Amalie, VI: Cyril E King                                  |            1
+ SWF          | Newburgh/Poughkeepsie, NY: New York Stewart International           |            1
+ SYR          | Syracuse, NY: Syracuse Hancock International                        |            1
+(53 rows)
+

@@ -1,0 +1,9 @@
+                      airport_desc                      
+--------------------------------------------------------
+ Atlanta, GA: Hartsfield-Jackson Atlanta International
+ Chicago, IL: Chicago O'Hare International
+ Dallas/Fort Worth, TX: Dallas/Fort Worth International
+ Denver, CO: Denver International
+ Los Angeles, CA: Los Angeles International
+(5 rows)
+

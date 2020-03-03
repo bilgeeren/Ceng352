@@ -1,0 +1,32 @@
+ year | weekday_name |       reason        | number_of_cancellations 
+------+--------------+---------------------+-------------------------
+ 2016 | Monday       | Weather             |                     774
+ 2016 | Tuesday      | National Air System |                     374
+ 2016 | Wednesday    | Carrier             |                     235
+ 2016 | Thursday     | Carrier             |                     214
+ 2016 | Friday       | Weather             |                    2288
+ 2016 | Saturday     | Weather             |                    2888
+ 2016 | Sunday       | Weather             |                    2551
+ 2017 | Monday       | Weather             |                     840
+ 2017 | Tuesday      | Weather             |                     618
+ 2017 | Wednesday    | Weather             |                     407
+ 2017 | Thursday     | Weather             |                     286
+ 2017 | Friday       | Weather             |                     783
+ 2017 | Saturday     | Weather             |                    1406
+ 2017 | Sunday       | Weather             |                     987
+ 2018 | Monday       | Weather             |                    1468
+ 2018 | Tuesday      | Weather             |                    1593
+ 2018 | Wednesday    | Weather             |                    2485
+ 2018 | Thursday     | Weather             |                    4364
+ 2018 | Friday       | Weather             |                    1709
+ 2018 | Saturday     | Weather             |                     368
+ 2018 | Sunday       | Weather             |                     669
+ 2019 | Monday       | Weather             |                    1486
+ 2019 | Tuesday      | Weather             |                    1842
+ 2019 | Wednesday    | Weather             |                    2535
+ 2019 | Thursday     | Weather             |                    1968
+ 2019 | Friday       | Weather             |                     551
+ 2019 | Saturday     | Weather             |                    1641
+ 2019 | Sunday       | Weather             |                    1877
+(28 rows)
+

@@ -1,0 +1,6 @@
+    airline_name    |     percentage      
+--------------------+---------------------
+ Mesa Airlines Inc. | 17.3913043478260870
+ Envoy Air          | 14.5161290322580645
+(2 rows)
+
